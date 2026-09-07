@@ -1,6 +1,6 @@
 # CSV maker
 
-VB6 working copy of `CSV maker` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: CSC.
+CSC VB6 site CSV builder (`CSV Maker.vbp`): FlexGrid editor for Group + drive/printer columns, reading scripts under a PDC `Admin$\system32\repl\export\scripts\Sites` path; Save / Open in Notepad. Open `CSV Maker.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
