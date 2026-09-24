@@ -25,7 +25,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/CSV maker`.
+Working copy from my Historical Dev folder `VB/Old/CSV maker`.
 Company names in project files: CSC.
 
 ## License
